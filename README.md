@@ -2,7 +2,12 @@ Project Name: 3d Object on 3d Map using React
 
 
 Brief project description:
-This project is a 3D object visualization on a 3D map built using React. The main goal of the project is to provide a user-friendly interface for users to view and interact with 3D objects on a map. The project utilizes various technologies, such as Three.js for rendering the 3D objects, Mapbox for rendering the map, and React for building the user interface. Users can interact with the 3D objects by clicking on them, zooming in/out of the map, and moving around the map. This project can be used for various applications, such as visualizing buildings or landmarks on a map, or for educational purposes to teach about 3D geometry and map visualization.
+
+**This project is a 3D object visualization on a 3D map built using React. The main goal of the project is to provide a user-friendly interface for users to view and interact with 3D objects on a map. The project utilizes various technologies, such as Three.js for rendering the 3D objects, Mapbox for rendering the map, and React for building the user interface. Users can interact with the 3D objects by clicking on them, zooming in/out of the map, and moving around the map. This project can be used for various applications, such as visualizing buildings or landmarks on a map, or for educational purposes to teach about 3D geometry and map visualization.**
+
+![image](https://github.com/mrityunjay33/3d-map/assets/46307002/5e1e35f6-c890-466a-8513-7963e4eb5746)
+
+
 
 Installation: 
 To install the project, clone the repository and run the following command in the terminal:
